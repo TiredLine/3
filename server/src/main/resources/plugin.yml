@@ -1,0 +1,11 @@
+name: server
+version: '${project.version}'
+main: plugin.server.Server
+api-version: '1.16'
+commands:
+  items:
+  sp:
+  inv:
+  l0:
+  spawn:
+  mobs:
